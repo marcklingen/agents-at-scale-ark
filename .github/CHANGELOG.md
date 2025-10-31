@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.42](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.41...v0.1.42) (2025-10-31)
+
+
+### Bug Fixes
+
+* **tests:** deterministic query token usage ([#386](https://github.com/mckinsey/agents-at-scale-ark/issues/386)) ([85f510c](https://github.com/mckinsey/agents-at-scale-ark/commit/85f510c288e0e55b85f11c199acc20f1dd62c9f2))
+
 ## [0.1.41](https://github.com/mckinsey/agents-at-scale-ark/compare/v0.1.40...v0.1.41) (2025-10-30)
 
 
